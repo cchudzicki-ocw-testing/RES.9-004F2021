@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "a200579a-eaaa-c391-a86b-f6617d0ad929"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "nancys-brain-talks"
+  },
+  "course_title": "Nancy's Brain Talks",
+  "course_description": "Professor Nancy Kanwisher uses a brain imaging method called fMRI to study the human brain. Her website, Nancy's Brain Talks is a collection of short videos that explore the different scientific methods used to study the human mind and brain. You do not need any background in the field to understand the talks.",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.9-004",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "nancys-brain-talks"
+  },
+  "learning_resource_types": [
+    "Videos"
+  ],
+  "site_uid": "61a3747a-b5cf-4d01-906f-e19b1f76fc0d",
+  "site_short_id": "RES.9-004F2021"
+}
