@@ -5,9 +5,14 @@ draft: false
 file: /courses/res-9-004-nancys-brain-talks-fall-2022/mitres_9_004f22.jpg
 file_type: image/jpeg
 image_metadata:
-  caption: ''
-  credit: ''
-  image-alt: ''
+  caption: 'Prof. Kanwisher giving her talk, "A Neural Portrait of the Human Mind"
+    at TED2014 in Vancouver, Canada, which details many of the discoveries of brain
+    imaging mapping the human brain. (Photo by James Duncan Davidson. License: CC
+    BY-NC. Source: [TED Conference](https://www.flickr.com/photos/tedconference/13269833385/)
+    on Flickr.)'
+  credit: 'Photo: James Duncan Davidson.'
+  image-alt: Photo of Nancy Kanwisher  standing on the dark TED stage in the middle
+    of giving her talk, wearing glasses and a bright red blazer
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
